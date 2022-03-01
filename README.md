@@ -1,4 +1,4 @@
-## Dorky 🔍
+## D0RKY 🔍
 Dorky is a tool to automate or simplify the google dorking during pentesting or bug bounty hunting.
 
 ## Usage
@@ -6,4 +6,4 @@ The tool is very easy to use just enter your target domain name and click whatev
 
 Feel free to contribute in this project. 😊
 
-Here's the <a  href="dorky.netlify.app">preview</a>
+Here's the <a  href="d0rky.netlify.app">preview</a>
