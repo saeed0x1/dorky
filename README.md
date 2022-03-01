@@ -6,4 +6,7 @@ The tool is very easy to use just enter your target domain name and click whatev
 
 Feel free to contribute in this project. 😊
 
+
+<img src="https://github.com/zerodayrat/Dorky/blob/main/img/preview.PNG">
+
 Here's the <a  href="d0rky.netlify.app">preview</a>
