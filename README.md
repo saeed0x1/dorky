@@ -9,4 +9,4 @@ Feel free to contribute in this project. 😊
 
 <img src="https://github.com/zerodayrat/Dorky/blob/main/img/preview.PNG">
 
-Here's the <a  href="d0rky.netlify.app">preview</a>
+Here's the <a  href="https://d0rky.netlify.app">preview</a>
